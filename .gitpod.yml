@@ -5,5 +5,5 @@ tasks:
       make --help
 vscode:
   extensions:
-    - vscode-clangd
+    - https://open-vsx.org/api/llvm-vs-code-extensions/vscode-clangd/0.1.33/file/llvm-vs-code-extensions.vscode-clangd-0.1.33.vsix
     
