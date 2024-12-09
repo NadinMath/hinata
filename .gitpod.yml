@@ -5,5 +5,5 @@ tasks:
       make --help
 vscode:
   extensions:
-    - clangd
+    - vscode-clangd
     
