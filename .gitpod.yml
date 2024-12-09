@@ -7,3 +7,4 @@ tasks:
       make help
 vscode:
   extensions:
+    - llvm-vs-code-extensions
