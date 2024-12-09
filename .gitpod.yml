@@ -1,8 +1,9 @@
 image:
   file: .gitpod.Dockerfile
 tasks:
-  - command: |
-      make help
+  - command: >
+      make --help
 vscode:
   extensions:
-    - llvm-vs-code-extensions
+    - clangd
+    
