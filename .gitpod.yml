@@ -1,9 +1,7 @@
 image:
   file: .gitpod.Dockerfile
 tasks:
-  - init: |
-      make
-    command: |
+  - command: |
       make help
 vscode:
   extensions:
